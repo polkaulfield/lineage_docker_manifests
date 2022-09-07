@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remove-project name="LineageOS/android_vendor_lineage" />
+	<project name="polkaulfield/android_vendor_lineage" path="vendor/lineage" remote="github" revision="lineage-17.1" />
+</manifest>
