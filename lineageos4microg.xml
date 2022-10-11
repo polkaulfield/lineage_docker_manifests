@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="polkaulfield/android_prebuilts_prebuiltapks" path="prebuilts/prebuiltapks" remote="github" revision="master" />
+  <project name="polkaulfield/custom_prebuiltapks" path="prebuilts/prebuiltapks" remote="github" revision="master" />
 </manifest>
